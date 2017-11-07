@@ -1,4 +1,4 @@
-﻿# git提交本地项目到github仓库
+# git提交本地项目到github仓库
 
 标签（空格分隔）： git github
 
@@ -18,6 +18,14 @@ git remote add origin git@github.com:zhuangbiman/AutoDeployTool.git
 git pull origin master
 
 
+
+## 从远程仓库clone代码至本地##
+
+git clone git@github.com:zhuangbiman/AutoDeployTool.git
+
+
+
+
 ## 提交代码
 - `git add *`, 向“缓存区”中提交本地内容
 - `git commit -m "comments"`， 提交代码
@@ -25,3 +33,6 @@ git pull origin master
 
 
   
+
+## 分支学习##
+
